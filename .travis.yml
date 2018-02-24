@@ -23,6 +23,7 @@ before_script:
 cache:
   directories:
   - $HOME/.m2
+  - $HOME/CACHE
 dist: trusty
 env:
   global:
